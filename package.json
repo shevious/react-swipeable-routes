@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "path-to-regexp": "^2.1.0",
-    "react-swipeable-views": "^0.12.4",
+    "react-swipeable-views": "https://raw.githubusercontent.com/shevious/react-swipeable-views/v0.12.4u/packages/react-swipeable-views/react-swipeable-views-v0.12.4.tgz",
     "react-testing-library": "^5.3.1"
   },
   "peerDependencies": {
@@ -57,7 +57,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanfilippopablo/react-swipeable-routes.git"
+    "url": "https://github.com/shevious/react-swipeable-routes.git"
   },
   "bugs": {
     "url": "https://github.com/sanfilippopablo/react-swipeable-routes/issues"
